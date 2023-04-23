@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kimmypracha/kimmypracha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)][kaggle]
 
-## Hi everyone! I'm Pracha Promthaw. 
+## Hi everyone! I'm Pracha Promthaw (Kim). 
 
 I'm currently interested in Information Retrieval System and Conversational AI along with NLP and ML. 
 

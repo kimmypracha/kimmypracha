@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm currently interested in Information Retrieval System and Conversational AI along with NLP and ML. 
 
-🌱 I’m currently learning about information retrieval system and database management.
+🌱 I’m currently learning about retrieval-enhanced large language model and stable diffusion in the aspect of semantic editing.
 
 🔭 I’m currently working on Alexa Prize Project, developing retriever for DIY and recipe task.
 

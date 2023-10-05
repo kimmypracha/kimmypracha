@@ -33,8 +33,6 @@ I'm currently interested in Information Retrieval System and Conversational AI a
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kimmypracha)
 
-[![An image of @kimmypracha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kimmypracha)](https://holopin.io/@kimmypracha)
-
 [website]: https://kimmypracha.github.io
 [linkedin]: https://www.linkedin.com/in/pracha-promthaw-5605041a6/
 [medium]: https://medium.com/@pracha.promtaow

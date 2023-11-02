@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
+[![Google Scholar](https://img.shields.io/badge/google_scholar-googlescholar?&style=for-the-badge&logo=google-scholar&logoColor=blue&color=white)][scholar]&nbsp;
 [![Medium Badge](https://img.shields.io/badge/-medium-03a57a?style=for-the-badge&color=000000&logo=Medium)][medium]&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)][kaggle]
@@ -37,4 +38,5 @@ I'm currently interested in Information Retrieval System and Conversational AI a
 [linkedin]: https://www.linkedin.com/in/pracha-promthaw-5605041a6/
 [medium]: https://medium.com/@pracha.promtaow
 [mail]: mailto:ppromthaw@umass.edu
-[kaggle]: [https://www.kaggle.com/khunanonr](https://www.kaggle.com/kimmypracha)
+[kaggle]: https://www.kaggle.com/kimmypracha
+[scholar]: https://scholar.google.com/citations?hl=en&user=zTxWXfoAAAAJ

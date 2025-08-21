@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Hi everyone! I'm Pracha Promthaw (Kim). 
 
-I'm currently interested in Information Retrieval System and Conversational AI along with NLP and ML. 
+I'm currently interested in Self-Improving Generative AI with self-evaluation and self-supervised or weakly-supervised training approach. Especially in creative and educational application. 
 
-🌱 I’m currently learning about retrieval-enhanced large language model and stable diffusion in the aspect of semantic editing.
+🌱 I’m currently learning about tool for fine-tuning LLM with RL paradigm. Outsides CS, I'm practicing drawing and writing a novel!
 
-🔭 I’m currently working on Alexa Prize Project, developing retriever for DIY and recipe task.
+🔭 I’m currently working on research to improve LLM Evaluation for Self-Improving LLM.
 
 👯 I’m looking to collaborate on any project that looks fun! Feel free to contact me if you have some idea!
 

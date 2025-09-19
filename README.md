@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Hi everyone! I'm Pracha Promthaw (Kim). 
 
-I'm currently interested in Self-Improving Generative AI with self-evaluation and self-supervised or weakly-supervised training approach. Especially in creative and educational application. 
+I'm currently interested in Human-centered Generative AI with self-evaluation and self-reasoning using self-supervised or weakly-supervised approach. Especially in creative and educational application. 
 
 🌱 I’m currently learning about tool for fine-tuning LLM with RL paradigm. Outsides CS, I'm practicing drawing and writing a novel!
 
